@@ -1,0 +1,9 @@
+Thank you for downloading my mod.
+
+This mod adds a ball to the dekstop for you and the goose to play with.
+The goose will randomly charge at and kick the ball.
+You can also kick the ball by touching it with the mouse. Doing so will cause the goose to come kick it.
+
+The ball can be topggled on and off by placing the mouse cursor in the very top left of the display.
+
+ For any help, info, suggestions I can be reached on discord at TheOrlando#9984
